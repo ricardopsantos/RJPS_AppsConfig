@@ -1,0 +1,26 @@
+{
+  "hit_happens": {
+    "onboarding": {
+      "pages": [
+        {
+          "order": 1,
+          "test": "text 1",
+          "image_light": "www.image.com",
+          "image_dark": "www.image.com"
+        },
+        {
+          "order": 2,
+          "test": "text 2",
+          "image_light": "www.image.com",
+          "image_dark": "www.image.com"
+        },
+        {
+          "order": 3,
+          "test": "text 3",
+          "image_light": "www.image.com",
+          "image_dark": "www.image.com"
+        }
+      ]
+    }
+  }
+}
