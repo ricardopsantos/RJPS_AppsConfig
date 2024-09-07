@@ -1,4 +1,4 @@
-# Event Tracker App
+# Hit Happens App
 
 ## Overview
 
