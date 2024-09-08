@@ -1,4 +1,4 @@
-# TinyConstraints : https://github.com/roberthein/TinyConstraints
+TinyConstraints : https://github.com/roberthein/TinyConstraints
 
 MIT License
 
@@ -24,7 +24,7 @@ THE SOFTWARE.
 
 --
 
-# KeychainAccess : https://github.com/kishikawakatsumi/KeychainAccess
+KeychainAccess : https://github.com/kishikawakatsumi/KeychainAccess
 
 The MIT License (MIT)
 
@@ -50,7 +50,7 @@ SOFTWARE.
 
 --
 
-# Nimble : https://github.com/Quick/Nimble
+Nimble : https://github.com/Quick/Nimble
 
 Apache License
                            Version 2.0, January 2004
