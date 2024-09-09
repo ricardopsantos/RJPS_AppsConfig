@@ -1,4 +1,4 @@
-TinyConstraints : https://github.com/roberthein/TinyConstraints
+1 : TinyConstraints : https://github.com/roberthein/TinyConstraints
 
 MIT License
 
@@ -22,9 +22,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
---
+----------------------------------------------------------
 
-KeychainAccess : https://github.com/kishikawakatsumi/KeychainAccess
+2 : KeychainAccess : https://github.com/kishikawakatsumi/KeychainAccess
 
 The MIT License (MIT)
 
@@ -48,9 +48,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
---
+----------------------------------------------------------
 
-Nimble : https://github.com/Quick/Nimble
+3 : Nimble : https://github.com/Quick/Nimble
 
 Apache License
                            Version 2.0, January 2004
