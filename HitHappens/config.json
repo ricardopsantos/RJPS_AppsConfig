@@ -8,26 +8,26 @@
         {
           "order": 1,
           "text": "Keep track of your favorite activities in one convenient place. Just tap to increment the counter and watch your progress grow.",
-          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab1.png?raw=true",
-          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab1.png?raw=true"
+          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t1.light?raw=true",
+          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t1.dark?raw=true"
         },
         {
           "order": 2,
           "text": "Organize all your tracked events by type. Add categories, sounds, and more to personalize your experience.",
-          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab2.png?raw=true",
-          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab2.png?raw=true"
+          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t2.light?raw=true",
+          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t2.dark?raw=true"
         },
         {
           "order": 3,
           "text": "Use the built-in calendar to review everything you’ve been tracking at a glance.",
-          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab3.png?raw=true",
-          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab3.png?raw=true"
+          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t3.light?raw=true",
+          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t3.dark?raw=true"
         },
         {
           "order": 4,
           "text": "For events tied to locations, check them out on the map to see where they happened!",
-          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab4.png?raw=true",
-          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/tab4.png?raw=true"
+          "image_light": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t4.light?raw=true",
+          "image_dark": "https://github.com/ricardopsantos/RJPS_AppsConfig/blob/a6ce5f0a34a2635da482ca87ecd4f1dd0bc970ba/HitHappens/images/onboarding/t4.dark?raw=true"
         }
       ]
     }
