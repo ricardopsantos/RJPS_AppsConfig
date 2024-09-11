@@ -35,10 +35,7 @@ We use your information to:
 
 ## 4. Data Sharing
 
-We do not share your personal or location data with third parties, except:
-- With your consent
-- To comply with legal obligations
-- To protect the rights and safety of our users or the public
+We do not share your personal or location data with third parties:
 
 ## 5. Data Security
 
@@ -56,4 +53,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## 8. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Information].
+If you have any questions about this Privacy Policy, please contact us at rjps.dev@gmail.
