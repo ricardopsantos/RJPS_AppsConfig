@@ -53,4 +53,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## 8. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at rjps.dev@gmail.
+If you have any questions about this Privacy Policy, please contact us at rjps.dev@gmail.com
