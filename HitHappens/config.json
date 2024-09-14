@@ -2,9 +2,7 @@
   "hit_happens": {
     "public_code_url": "https://raw.githubusercontent.com/ricardopsantos/RJPS_AppsConfig/main/HitHappens/PublicCode.md",
     "support_email_encrypted": "IsM2GkBouvygwCr/dGUrS6Th4X45BlR/GNrIl3Hvp3nsAFRdlcVv79Lm/cpiMw==",
-    "onboarding": {
-      "intro": "Hit Happens lets you capture life’s moments with ease. Track the little things that matter and see how often they happen over time.",
-      "default_events": [
+          "default_events": [
         {
           "name": "Gymnasium",
           "archived": false,
@@ -266,6 +264,8 @@
           "name": "Books 2024"
         }
       ],
+    "onboarding": {
+      "intro": "Hit Happens lets you capture life’s moments with ease. Track the little things that matter and see how often they happen over time.",
       "pages": [
         {
           "order": 1,
